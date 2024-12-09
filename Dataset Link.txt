@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/arnavsmayan/smart-home-energy-usage-dataset/data?select=smart_home_energy_usage_dataset.csv
